@@ -1,0 +1,29 @@
+﻿  GameBoard.cpp
+C:\Users\yuan2\OneDrive\Desktop\UbiGame_Blank\UbiGame_Blank\UbiGame\Source\Game\GameBoard.cpp(155,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yuan2\OneDrive\Desktop\UbiGame_Blank\UbiGame_Blank\UbiGame\Source\Game\GameBoard.cpp(155,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yuan2\OneDrive\Desktop\UbiGame_Blank\UbiGame_Blank\UbiGame\Source\Game\GameBoard.cpp(159,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yuan2\OneDrive\Desktop\UbiGame_Blank\UbiGame_Blank\UbiGame\Source\Game\GameBoard.cpp(159,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yuan2\OneDrive\Desktop\UbiGame_Blank\UbiGame_Blank\UbiGame\Source\Game\GameBoard.cpp(173,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yuan2\OneDrive\Desktop\UbiGame_Blank\UbiGame_Blank\UbiGame\Source\Game\GameBoard.cpp(173,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  1 of 586 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  UbiGame.vcxproj -> C:\Users\yuan2\OneDrive\Desktop\UbiGame_Blank\UbiGame_Blank\x64\Release\UbiGame.exe
+  C:\Users\yuan2\OneDrive\Desktop\UbiGame_Blank\UbiGame_Blank\UbiGame\Resources\img\arial.ttf
+  C:\Users\yuan2\OneDrive\Desktop\UbiGame_Blank\UbiGame_Blank\UbiGame\Resources\img\bg.png
+  C:\Users\yuan2\OneDrive\Desktop\UbiGame_Blank\UbiGame_Blank\UbiGame\Resources\img\FalseBtn.png
+  C:\Users\yuan2\OneDrive\Desktop\UbiGame_Blank\UbiGame_Blank\UbiGame\Resources\img\Q1.png
+  C:\Users\yuan2\OneDrive\Desktop\UbiGame_Blank\UbiGame_Blank\UbiGame\Resources\img\Q10.png
+  C:\Users\yuan2\OneDrive\Desktop\UbiGame_Blank\UbiGame_Blank\UbiGame\Resources\img\Q2.png
+  C:\Users\yuan2\OneDrive\Desktop\UbiGame_Blank\UbiGame_Blank\UbiGame\Resources\img\Q3.png
+  C:\Users\yuan2\OneDrive\Desktop\UbiGame_Blank\UbiGame_Blank\UbiGame\Resources\img\Q4.png
+  C:\Users\yuan2\OneDrive\Desktop\UbiGame_Blank\UbiGame_Blank\UbiGame\Resources\img\Q5.png
+  C:\Users\yuan2\OneDrive\Desktop\UbiGame_Blank\UbiGame_Blank\UbiGame\Resources\img\Q6.png
+  C:\Users\yuan2\OneDrive\Desktop\UbiGame_Blank\UbiGame_Blank\UbiGame\Resources\img\Q7.png
+  C:\Users\yuan2\OneDrive\Desktop\UbiGame_Blank\UbiGame_Blank\UbiGame\Resources\img\Q8.png
+  C:\Users\yuan2\OneDrive\Desktop\UbiGame_Blank\UbiGame_Blank\UbiGame\Resources\img\Q9.png
+  C:\Users\yuan2\OneDrive\Desktop\UbiGame_Blank\UbiGame_Blank\UbiGame\Resources\img\quit.png
+  C:\Users\yuan2\OneDrive\Desktop\UbiGame_Blank\UbiGame_Blank\UbiGame\Resources\img\TrueBtn.png
+  15 File(s) copied
